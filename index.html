@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SUVAT Solver</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h2>SUVAT Solver</h2>
+        <form id="suvatForm">
+            <input type="text" id="s" placeholder="s (displacement)">
+            <input type="text" id="u" placeholder="u (initial velocity)">
+            <input type="text" id="v" placeholder="v (final velocity)">
+            <input type="text" id="a" placeholder="a (acceleration)">
+            <input type="text" id="t" placeholder="t (time)">
+            <button type="button" onclick="solveSuvat()">Solve</button>
+        </form>
+        <div id="results"></div>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+
+<div id="results"></div>
+
+<footer>
+    Copyright © <a href="https://reefsalty.co.uk" target="_blank">ReefSalty</a>
+</footer>
+
+</html>

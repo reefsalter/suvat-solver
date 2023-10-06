@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SUVAT Solver</title>
     <link rel="stylesheet" href="styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.5.0-beta4/html2canvas.min.js"></script>
 </head>
 <body>
     <div class="container">
@@ -16,14 +17,15 @@
             <input type="text" id="a" placeholder="a (acceleration)">
             <input type="text" id="t" placeholder="t (time)">
             <button type="button" onclick="solveSuvat()">Solve</button>
+            <button type="button" onclick="exportToImage()">Export as Image</button>
         </form>
         <div id="results"></div>
     </div>
 
     <footer>
-        Copyright © <a href="https://reefsalty.co.uk" target="_blank">ReefSalty</a> 2023
+        Copyright © <a href="https://reefsalty.co.uk" target="_blank">ReefSalty</a>
     </footer>
-    
+
     <script src="scripts.js"></script>
 </body>
 </html>

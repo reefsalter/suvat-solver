@@ -27,10 +27,6 @@ This tool is designed to help students, educators, and anyone interested in phys
 3. Click the "Solve" button to calculate the missing values.
 4. Optionally, click the "Export as Image" button to save the results as an image.
 
-## Installation
-
-No installation is required as this is a web-based tool. Simply open the `index.html` file in your web browser to use the SUVAT Solver.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).

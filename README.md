@@ -8,7 +8,7 @@
 
 The SUVAT Solver is a web-based tool that calculates and solves problems related to motion and displacement using the SUVAT equations. These equations describe the relationships between initial velocity (u), final velocity (v), acceleration (a), time (t), and displacement (s) in kinematics.
 
-![SUVAT Equations](suvat_equations.png)
+![SUVAT Equations](suvat-solver.png)
 
 This tool is designed to help students, educators, and anyone interested in physics to quickly and easily calculate unknown values in motion problems. It provides a user-friendly interface where you can input known values, and it will calculate the missing parameters.
 

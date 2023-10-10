@@ -57,6 +57,8 @@ function solveSuvat() {
             results += `<div class='equation'>Using rearrangements of s = 0.5 * (u + v) * t and v = u + at</div>
                         Displacement, s = ${s.toFixed(2)} m<br>
                         Time, t = ${t.toFixed(2)} s<br>`;
+        } else {
+            results += "<div class='error'>Error: Cannot calculate valid results with the given input values.</div>";
         }
     }
 

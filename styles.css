@@ -31,13 +31,13 @@ input {
 button {
     cursor: pointer;
     padding: 10px;
-    background-color: #007BFF;
+    background-color: #FFB6C1;
     color: #fff;
     border: none;
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #FFB6C1;
 }
 
 #results {
@@ -57,7 +57,7 @@ footer {
 
 footer a {
     text-decoration: none;
-    color: #007BFF;
+    color: #FFB6C1;
 }
 
 footer a:hover {

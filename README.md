@@ -1,8 +1,8 @@
 # SUVAT Solver
 
-![GitHub last commit](https://img.shields.io/github/last-commit/reefsalty/suvat-solver)
-![GitHub license](https://img.shields.io/github/license/reefsalty/suvat-solver)
-[![GitHub stars](https://img.shields.io/github/stars/reefsalty/suvat-solver)](https://github.com/reefsalty/suvat-solver/stargazers)
+![GitHub last commit](https://img.shields.io/github/last-commit/reefsalter/suvat-solver)
+![GitHub license](https://img.shields.io/github/license/reefsalter/suvat-solver)
+[![GitHub stars](https://img.shields.io/github/stars/reefsalter/suvat-solver)](https://github.com/reefsalter/suvat-solver/stargazers)
 
 ## Overview
 
@@ -46,9 +46,9 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 
 ## Feedback and Support
 
-If you encounter any issues or have suggestions for improvements, please open an issue on this GitHub repository. For general support or questions, you can reach out to [ReefSalty](https://github.com/reefsalty).
+If you encounter any issues or have suggestions for improvements, please open an issue on this GitHub repository. For general support or questions, you can reach out to [Reef](https://github.com/reefsalter).
 
 ## Contact
 
 ReefSalty
-Email: hi@reefsalty.co.uk
+Email: reef@reefsalter.com
